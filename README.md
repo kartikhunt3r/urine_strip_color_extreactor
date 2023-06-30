@@ -49,11 +49,3 @@ This project is a web application that allows users to upload an image of a urin
 2. Click on the "Upload" button.
 3. Choose an image of a urine strip from your local machine and click "Submit".
 4. The application will process the image and display the color analysis results on the webpage.
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on the [GitHub repository](https://github.com/your-username/urine-strip-analyzer).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
