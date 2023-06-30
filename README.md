@@ -1,4 +1,3 @@
-```markdown
 # Urine Strip Analyzer
 
 This project is a web application that allows users to upload an image of a urine strip and identify the colors on the strip. It provides color analysis by extracting the RGB values of the colors on the strip.
@@ -58,4 +57,3 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
